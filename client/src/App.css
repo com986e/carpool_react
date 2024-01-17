@@ -1,0 +1,42 @@
+/* .App {
+  text-align: center;
+} */
+.loginMain {
+  margin: auto;
+    width: 100%;
+    border: 3px solid #95ff00;
+    padding: 10px;
+}
+.header{
+  margin: auto;
+    width: 100%;
+    border: 3px solid #95ff00;
+    padding: 10px;
+}
+.mainPage{
+  margin: auto;
+    width: 100%;
+    height: 100%;
+    border: 3px solid #95ff00;
+    padding: 10px;
+}
+textarea{
+  width:500px;
+  height: 300px;
+}
+.Board{
+  background-color: rgb(228, 116, 116);
+  width: 100%;
+  height: 100%;
+  border: 1px solid #95ff00 ;
+  padding: 20px;
+}
+.passengersDiv{
+  background-color: rgb(100, 102, 201);
+  width: 100%;
+  height: 100%;
+  border: 1px solid #95ff00 ;
+  padding: 20px;
+}
+
+
